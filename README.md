@@ -1,17 +1,17 @@
 # Welcome to Nathaniel Barnes' Profile 
 <a href="https://linkedin.com/in/nathaniel-barnes-376038193/"><img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 
-[Brief Introduction - Remove this afterwards]
+
 
 I am a recent graduate at Governors State University with a Bachelor's degree and a profound interest in information technology and cybersecurity.
 
 ## Objective
-[Provide Objective - Remove this afterwards]]
+
 
 My journey in studying for Information Technology and Computer Science has led me to develop a passion for IT Support and cybersecurity, and I am now eager to transition into this field, specifically aiming to become a Cybersecurity Engineer.
 
 ## Skills
-[Provide skills and associated project. Make sure to hyperlink the project - Remove this afterwards]]
+
 
 | Skill                                         | Associated Project         |
 |-----------------------------------------------|----------------------------|
